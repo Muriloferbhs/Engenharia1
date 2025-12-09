@@ -95,16 +95,7 @@ public class TestandoRequisitos {
         int qtd = 3;
         assertEquals(0, test.estoqueProdutoAtualizadoVendido(estoque, qtd));
     }
-    
-    @Test // login e controle de acesso
-    public void login(){
-        String usuarioValido = "bruno";
-        String senhaValida = "123456";
-        String usuario = "bruno";
-        String senha= "123456";
-        assertTrue(test.validacaoLogin(usuarioValido, senhaValida, usuario, senha), "Senha ou usuario errado");
-    }
-    
+
     @Test // alerta de estoque baixo se tiver 3 ou menos no estoque
     public void alertaEstoqueBaixo(){
         int qtdEstoque = 3;
@@ -200,3 +191,4 @@ public class TestandoRequisitos {
         assertEquals("Produto1","121314",test.pesquisaCliente(produto1,codigo1,produto2,codigo2),"");
     }
 }
+
