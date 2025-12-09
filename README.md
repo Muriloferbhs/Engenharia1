@@ -41,6 +41,7 @@ javac Testando.java TestandoRequisitos.java
 ```bash
 java Testando
 ```
-🧑‍💻 Autor
-Murilo Fernando - github.com/Muriloferbhs \n
-Pedro Chaves - github.com/pdrChaves
+## 🧑‍💻 Autor
+
+* **Muriloferbhs** - [github.com/Muriloferbhs](https://github.com/Muriloferbhs)
+* **Pedro Chaves** - [github.com/Pedro Chaves](https://github.com/pdrChaves)
