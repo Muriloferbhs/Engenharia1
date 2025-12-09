@@ -1,6 +1,6 @@
 /**
  *
- * @author bruno, pedro e murilo
+ * @author pedro e murilo
  */
 public class Testando {
   /**
@@ -148,24 +148,7 @@ public class Testando {
      */ 
     public int estoqueProdutoAtualizadoComprado( int qtdEstoque, int qtdComprada){
         return qtdEstoque+qtdComprada;
-    }
-    
-    /**
-     * 
-     * @param usuarioValido variavel do tipo string que é um usario valida
-     * @param senhaValida variavel do tipo string que é uma senha valida
-     * @param usuario variavel do tipo string que é um usuario que você colocou
-     * @param senha variavel do tipo string que é a senha que você colocou
-     * @return estorna true se usuarioValido for igual a usuario e senhaValida for igual a senha
-     */
-    public boolean validacaoLogin(String usuarioValido, String senhaValida, String usuario, String senha){
-        boolean status = false;
-            if(usuarioValido.equals(usuario) && senhaValida.equals(senha)){
-                status=true;
-            }
-        return status;
-    }
-    
+    } 
     /**
      * 
      * @param qtdEstoque variave do tipo int quantidade
@@ -364,3 +347,4 @@ public class Testando {
         return nome;
     }
 }
+
