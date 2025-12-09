@@ -1,5 +1,8 @@
 # 📚 Engenharia1
 
+Link apresentação de slides no canva: https://www.canva.com/design/DAG6-bqxgJc/crNF9RHtJMkGr_N3oq7JWQ/edit?utm_content=DAG6-bqxgJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link da prototipação de tela no canva: https://www.canva.com/design/DAG69Pv1BCk/dqe8FfxzR0FX3zm6BInV2w/edit?utm_content=DAG69Pv1BCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Este repositório contém o projeto desenvolvido para a disciplina de **Engenharia de Software I**, focado na aplicação de conceitos e práticas essenciais para o desenvolvimento de software.
 
 ## 💻 Tecnologias Utilizadas
