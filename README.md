@@ -42,5 +42,5 @@ javac Testando.java TestandoRequisitos.java
 java Testando
 ```
 🧑‍💻 Autor
-Murilo Fernando - github.com/Muriloferbhs
+Murilo Fernando - github.com/Muriloferbhs.
 Pedro Chaves - github.com/pdrChaves
