@@ -43,5 +43,5 @@ java Testando
 ```
 ## 🧑‍💻 Autor
 
-* **Muriloferbhs** - [github.com/Muriloferbhs](https://github.com/Muriloferbhs)
+* **Murilo Fernando** - [github.com/Muriloferbhs](https://github.com/Muriloferbhs)
 * **Pedro Chaves** - [github.com/Pedro Chaves](https://github.com/pdrChaves)
